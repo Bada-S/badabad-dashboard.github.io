@@ -12,6 +12,6 @@ I decided to work with a powerlifting dataset from [kaggle](https://www.kaggle.c
 deadlift numbers at powerlifting meets. I filtered the data to minimize the effect of confounding variables. I limited the age range from 18-39, only recorded raw(powerlifter 
 term meaning unequiped lifts), and I separated the data by gender.
 
-Using the data that I had, I created [visualizations]() to display the relation between bodyweight and weight lifted for each of the three powerlifting lifts.
+Using the data that I had, I created [visualizations](https://colab.research.google.com/drive/1CPaoHMfITOnwxALYjKofmN5K3Z0iYX8O?usp=sharing) to display the relation between bodyweight and weight lifted for each of the three powerlifting lifts.
 
 Check out the whole story [here](https://medium.com/@jamessopkin_70258/does-size-matter-in-powerlifting-edfd5c48ec27)
