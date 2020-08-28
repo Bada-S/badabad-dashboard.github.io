@@ -1,5 +1,9 @@
 ---
-layout: home
-title: James Sopkin
-subtitle: This is my portfolio to document my data science journey
+layout: post
+title: Does size matter in powerlifting?
+subtitle: A brief analysis of the relationship between strength and bodyweight
+cover-img: /assets/img/path.jpg
+thumbnail-img: assets/img/javier-santos-guzman-9MR78HGoflw-unsplash.jpg
+share-img: /assets/img/path.jpg
+tags: [pandas, numpy, scipy]
 ---
