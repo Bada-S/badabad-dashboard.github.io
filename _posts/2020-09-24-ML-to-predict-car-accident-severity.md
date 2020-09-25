@@ -7,3 +7,5 @@ thumbnail-img: assets/img/1_Qo_12iebBe2F7N4q7Ofmiw.png
 share-img: /assets/img/path.jpg
 tags: [pandas, numpy, sklearn]
 ---
+
+I worked with a car accident dataset from kaggle
