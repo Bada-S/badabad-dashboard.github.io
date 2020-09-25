@@ -2,9 +2,9 @@
 layout: post
 title: ML predicting car accident severity
 subtitle: Using classifiers to predict severity of car accidents
-cover-img: assets/img/shaply.png
+cover-img: assets/img/car accident.png
 thumbnail-img: assets/img/shaply.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/car accident.png
 tags: [pandas, numpy, sklearn]
 ---
 
