@@ -8,4 +8,4 @@ share-img: /assets/img/path.jpg
 tags: [pandas, numpy, sklearn]
 ---
 
-I worked with a car accident dataset from kaggle
+I worked with a car accident dataset from [kaggle](https://www.kaggle.com/sobhanmoosavi/us-accidents). Using the data, I created predictive models to predict whether each car accident was either severe or not severe. 
